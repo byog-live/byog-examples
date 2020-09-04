@@ -6,3 +6,4 @@ Examples of games/apps on BYOG platform
 
 ## Examples
 - [Tic Tac Toe](https://github.com/primeminddigital/byog-example-tictactoe)
+- [Pong](https://github.com/primeminddigital/byog-example-pong)
