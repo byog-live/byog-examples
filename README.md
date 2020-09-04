@@ -5,5 +5,5 @@ Examples of games/apps on BYOG platform
 [play.byog.live](https://play.byog.live)
 
 ## Examples
-- [Tic Tac Toe](https://github.com/primeminddigital/byog-example-tictactoe)
-- [Pong](https://github.com/primeminddigital/byog-example-pong)
+- [Tic Tac Toe](https://github.com/byog-live/byog-example-tictactoe)
+- [Pong](https://github.com/byog-live/byog-example-pong)
